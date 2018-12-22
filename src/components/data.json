@@ -1,0 +1,100 @@
+{
+  "result": "200",
+  "resultMessage": "SUCCESS",
+  "totalCount": 3,
+  "resultCount": 3,
+  "items": [
+    {
+      "id": 1,
+      "title":"Very Flexible",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic qui non placeat ad explicabo dignissimos amet iusto veniam!Quo expedita tempore modi minima at adipisci saepe excepturi alias consequuntur sunt asperiores enim ut assumenda hic vitae, odio deleniti illo, veniam quas!",
+      "page":  "#",
+      "usable": true,
+      "children": [
+        {
+          "text":"Aut earum numquam hic placeat",
+          "orderNo": 30
+        },
+        {
+          "text":"Consectetur adipisicing elit",
+          "orderNo": 20
+        },
+        {
+          "text":"Lorem ipsum dolor sit amet maiores",
+          "orderNo": 10
+        },
+        {
+          "text":"Fugiat rem consequatur neque",
+          "orderNo": 40
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title":"Unt lorem culpa quilor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic qui non placeat ad explicabo dignissimos amet iusto veniam!Quo expedita tempore modi minima at adipisci saepe excepturi alias consequuntur sunt asperiores enim ut assumenda hic vitae, odio deleniti illo, veniam quas!",
+      "page":  "#",
+      "usable": true,
+      "children": [
+        {
+          "text":"Fugiat rem consequatur neque",
+          "orderNo": 40
+        },
+        {
+          "text":"Aut earum numquam hic placeat",
+          "orderNo": 30
+        },
+        {
+          "text":"Consectetur adipisicing elit",
+          "orderNo": 20
+        },
+        {
+          "text":"Lorem ipsum dolor sit amet maiores",
+          "orderNo": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title":"Well Documented",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic qui non placeat ad explicabo dignissimos amet iusto veniam!Quo expedita tempore modi minima at adipisci saepe excepturi alias consequuntur sunt asperiores enim ut assumenda hic vitae, odio deleniti illo, veniam quas!",
+      "page":  "#",
+      "usable": true,
+      "children": [
+        {
+          "text":"Consectetur adipisicing elit",
+          "orderNo": 20
+        },
+        {
+          "text":"Aut earum numquam hic placeat",
+          "orderNo": 30
+        },
+        {
+          "text":"Lorem ipsum dolor sit amet maiores",
+          "orderNo": 10
+        },
+        {
+          "text":"Fugiat rem consequatur neque",
+          "orderNo": 40
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title":"Empty Part",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic qui non placeat ad explicabo dignissimos amet iusto veniam!Quo expedita tempore modi minima at adipisci saepe excepturi alias consequuntur sunt asperiores enim ut assumenda hic vitae, odio deleniti illo, veniam quas!",
+      "page":  "#",
+      "usable": false,
+      "children": []
+    },
+    {
+      "id": 5,
+      "title":"Empty Part2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic qui non placeat ad explicabo dignissimos amet iusto veniam!Quo expedita tempore modi minima at adipisci saepe excepturi alias consequuntur sunt asperiores enim ut assumenda hic vitae, odio deleniti illo, veniam quas!",
+      "page":  "#",
+      "usable": false,
+      "children": []
+    }
+  ]
+}
+
